@@ -1,0 +1,24 @@
+---
+time:
+  DAY: 1 jour
+  DAYS: "$0 days"
+  ONE_HOUR: 1 hour
+  HOURS: "$1 hours"
+  ONE_MINUTE: 1 minute
+  MINUTES: "$0 minutes"
+  ONE_SECOND: 1 second
+  SECONDS: "{{amount}} seconds"
+  NOT_NUMBER: Must be a number.
+  INCORRECT_DELIMITERS: 'Please use one of the following time delimiters: `d`,  `h`,  `m`,
+    `s`.'
+  MAX_TIME: Can't be longer than 10 days.
+  INVALID_TIME: 'An invalid number was entered. (Example: 1m or 16h)'
+  day: day
+  days: days
+  hour: hour
+  hours: hours
+  minute: minute
+  minutes: minutes
+  second: second
+  seconds: seconds
+  and: and
